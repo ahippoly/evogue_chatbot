@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+html,
+#__nuxt,
+body {
+    height: 100%;
+}
+
+
+p
+{
+    font-size: 12px;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5
+{
+    font-family: Helvetica, sans-serif;
+}
+
+
+svg
+{
+    width: $icon-size;
+    height: $icon-size;
+}
